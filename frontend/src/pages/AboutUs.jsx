@@ -1,5 +1,5 @@
 import React from 'react';
-import { Building2, Users, Target, CheckCircle } from 'lucide-react';
+import { Building2, Users, Target, CheckCircle, Shield } from 'lucide-react';
 
 const AboutUs = () => {
   const values = [
